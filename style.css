@@ -99,6 +99,7 @@ margin: 1rem 0 .8rem;
     padding: 1.25rem;
     border-radius: .5rem;
     background: var(--clr-Moderate-violet);
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
 }
 
 .user-info img {
